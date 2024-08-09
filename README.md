@@ -24,6 +24,7 @@ Things to fix-
 - Not yet implemented update todo
 
 To run this first change mongoDB connection url to your own connection url
+Then try reading comment 
 
 After changing directories run npm i to install dependencies
 
